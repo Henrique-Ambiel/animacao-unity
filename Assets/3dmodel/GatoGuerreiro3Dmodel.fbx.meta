@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 1f80a5b7266e8cc45a156db9c0f8a491
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: "Arma\xE7\xE3o|Arma\xE7\xE3oAction"
+      internalID: 6721458310439393509
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Arma\xE7\xE3o|Arma\xE7\xE3oAction.001"
+      takeName: "Arma\xE7\xE3o|Arma\xE7\xE3oAction.001"
+      internalID: -6226059322721123677
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: GatoGuerreiro3Dmodel(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Arma\xE7\xE3o"
+      parentName: GatoGuerreiro3Dmodel(Clone)
+      position: {x: -0, y: 1.1963177, z: -0.06259954}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 14.207753, y: 14.207753, z: 14.207753}
+    - name: Osso(s)
+      parentName: "Arma\xE7\xE3o"
+      position: {x: -0.007960621, y: 0, z: -0.0052372525}
+      rotation: {x: 0.68671834, y: 0.1685763, z: -0.16857618, w: 0.6867183}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Osso(s).001
+      parentName: Osso(s)
+      position: {x: 1.4901161e-10, y: 0.017191434, z: 1.4210854e-16}
+      rotation: {x: -6.6541095e-10, y: -0.00000019306754, z: 0.043300215, w: 0.9990621}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Osso(s).002
+      parentName: Osso(s).001
+      position: {x: -2.9802322e-10, y: 0.015250034, z: 5.417901e-17}
+      rotation: {x: -0.000000009246899, y: 0.00000019125115, z: 0.30357057, w: 0.952809}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Osso(s).003
+      parentName: Osso(s).002
+      position: {x: 2.2204459e-17, y: 0.021117045, z: 1.7763567e-16}
+      rotation: {x: 0.000000014432608, y: -0.00000005076812, z: -0.07479364, w: 0.99719906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).004
+      parentName: Osso(s).003
+      position: {x: 2.2204459e-17, y: 0.028586144, z: -1.1546319e-16}
+      rotation: {x: -0.0070914924, y: -0.0014875456, z: 0.12766936, w: 0.99179035}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: "Pesco\xE7o"
+      parentName: Osso(s).004
+      position: {x: -0.000000002305187, y: 0.017940694, z: 1.06520015e-10}
+      rotation: {x: 0.006730237, y: 0.0026840554, z: -0.29623514, w: 0.95508754}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: "BaseCabe\xE7a"
+      parentName: "Pesco\xE7o"
+      position: {x: -6.685243e-10, y: 0.008567837, z: -1.9237233e-12}
+      rotation: {x: 0.14728701, y: -0.49753836, z: 0.015787944, w: 0.85470045}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: "Cabe\xE7aTopo"
+      parentName: "BaseCabe\xE7a"
+      position: {x: -0.0000000037252903, y: 0.014502843, z: 5.9604643e-10}
+      rotation: {x: 0.000000047161347, y: 0.000000047590284, z: 0.12372789, w: 0.9923162}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: "Cabe\xE7aTopo_end"
+      parentName: "Cabe\xE7aTopo"
+      position: {x: -0, y: 0.01889958, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseOrelhaDireita
+      parentName: "BaseCabe\xE7a"
+      position: {x: -0.0000000037252903, y: 0.014502843, z: 5.9604643e-10}
+      rotation: {x: 0.37806293, y: -0.08987046, z: 0.4172853, w: 0.8215015}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: OrelhaDireitaMeio
+      parentName: BaseOrelhaDireita
+      position: {x: -5.2154064e-10, y: 0.021695232, z: -0.000000007450581}
+      rotation: {x: -0.04571402, y: 0.20867248, z: -0.22853655, w: 0.949809}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: OrelhaDireitaFinal
+      parentName: OrelhaDireitaMeio
+      position: {x: 2.9802322e-10, y: 0.0076017, z: -0.0000000037252903}
+      rotation: {x: -0.10490317, y: 0.10647314, z: 0.08324452, w: 0.9852559}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: OrelhaDireitaFinal_end
+      parentName: OrelhaDireitaFinal
+      position: {x: -0, y: 0.009902034, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaseOrelhaEsquerda
+      parentName: "BaseCabe\xE7a"
+      position: {x: -0.0000000037252903, y: 0.014502843, z: 5.9604643e-10}
+      rotation: {x: -0.06972855, y: -0.3719003, z: 0.5550575, w: 0.7407694}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: OrelhaEsquerdaMeio
+      parentName: BaseOrelhaEsquerda
+      position: {x: -0.0000000020861626, y: 0.021218779, z: 2.9802322e-10}
+      rotation: {x: -0.07894138, y: 0.5110248, z: -0.2727864, w: 0.8113011}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: OrelhaEsquerdaFinal
+      parentName: OrelhaEsquerdaMeio
+      position: {x: 0.0000000047683715, y: 0.007601708, z: -0.000000006556511}
+      rotation: {x: 0.06575947, y: 0.0054605664, z: 0.09839401, w: 0.9929575}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: OrelhaEsquerdaFinal_end
+      parentName: OrelhaEsquerdaFinal
+      position: {x: -0, y: 0.009902034, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).005
+      parentName: Osso(s).003
+      position: {x: 2.2204459e-17, y: 0.028586144, z: -1.1546319e-16}
+      rotation: {x: 0.69518304, y: -0.12930809, z: -0.129308, w: 0.69518304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).006
+      parentName: Osso(s).005
+      position: {x: -5.797557e-10, y: 0.031674895, z: -0.0000000015086078}
+      rotation: {x: 0.67841786, y: -0.027164659, z: -0.106876776, w: 0.72635305}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Osso(s).007
+      parentName: Osso(s).006
+      position: {x: -0.0000000011920929, y: 0.050981496, z: -0.0000000017508864}
+      rotation: {x: -0.037004743, y: 0.00048703235, z: 0.0019579276, w: 0.99931306}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Osso(s).008
+      parentName: Osso(s).007
+      position: {x: -5.9604643e-10, y: 0.041137293, z: -5.9604643e-10}
+      rotation: {x: 0.041878283, y: 0.000000031973382, z: -0.008212012, w: 0.999089}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Osso(s).008_end
+      parentName: Osso(s).008
+      position: {x: -0, y: 0.02098403, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).009
+      parentName: Osso(s).003
+      position: {x: 2.2204459e-17, y: 0.028586144, z: -1.1546319e-16}
+      rotation: {x: -0.67867476, y: 0.72054654, z: -0.067671716, w: 0.12503569}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).010
+      parentName: Osso(s).009
+      position: {x: 5.448627e-10, y: 0.031346437, z: -5.621925e-10}
+      rotation: {x: -0.13514137, y: 0.15181929, z: -0.015481558, w: 0.97900355}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Osso(s).011
+      parentName: Osso(s).010
+      position: {x: -0.0000000010058283, y: 0.050981503, z: -0.0000000010430813}
+      rotation: {x: 0.030169237, y: -0.70659345, z: 0.020887041, w: 0.7066677}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+    - name: Osso(s).012
+      parentName: Osso(s).011
+      position: {x: 5.9604643e-10, y: 0.041137293, z: 0.0000000010430813}
+      rotation: {x: -0.041878298, y: 0.00000002721869, z: 0.008211999, w: 0.999089}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).012_end
+      parentName: Osso(s).012
+      position: {x: -0, y: 0.02098403, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).013
+      parentName: Osso(s)
+      position: {x: 1.4901161e-10, y: 0.017191434, z: 1.4210854e-16}
+      rotation: {x: 0.8165307, y: 0.000000009886825, z: -0.38831952, w: 0.42718333}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Osso(s).014
+      parentName: Osso(s).013
+      position: {x: 2.9802322e-10, y: 0.023147663, z: 2.9802322e-10}
+      rotation: {x: 0.29373026, y: -0.055285614, z: -0.266335, w: 0.9163688}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Osso(s).015
+      parentName: Osso(s).014
+      position: {x: -2.9802322e-10, y: 0.04886561, z: -0.0000000023841857}
+      rotation: {x: 0.05637604, y: 0.013568696, z: -0.035728846, w: 0.99767786}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Osso(s).016
+      parentName: Osso(s).015
+      position: {x: 1.8626451e-11, y: 0.045179166, z: -0.000000005364418}
+      rotation: {x: 0.052227486, y: -0.44677466, z: 0.49687627, w: 0.74214464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).016_end
+      parentName: Osso(s).016
+      position: {x: -0, y: 0.021118328, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Osso(s).017
+      parentName: Osso(s)
+      position: {x: 1.4901161e-10, y: 0.017191434, z: 1.4210854e-16}
+      rotation: {x: 0.8123461, y: 0.27452, z: -0.5131411, w: 0.03766907}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Osso(s).018
+      parentName: Osso(s).017
+      position: {x: -2.9802322e-10, y: 0.02336965, z: 2.9802322e-10}
+      rotation: {x: -0.064342484, y: 0.027035207, z: 0.17872663, w: 0.98142046}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Osso(s).019
+      parentName: Osso(s).018
+      position: {x: 3.5390257e-10, y: 0.04886561, z: -4.4703483e-10}
+      rotation: {x: -0.0008076054, y: -0.4629004, z: -0.02425216, w: 0.8860781}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Osso(s).020
+      parentName: Osso(s).019
+      position: {x: -7.45058e-10, y: 0.045179166, z: 0.0000000011920929}
+      rotation: {x: -0.5855771, y: 0.008791353, z: -0.3328805, w: 0.73906213}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Osso(s).020_end
+      parentName: Osso(s).020
+      position: {x: -0, y: 0.021118328, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cone
+      parentName: GatoGuerreiro3Dmodel(Clone)
+      position: {x: -0, y: 3.0360134, z: -0.26006693}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cubo
+      parentName: GatoGuerreiro3Dmodel(Clone)
+      position: {x: -3.949841e-18, y: 1.5159408, z: 0.0341959}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 41.37112, z: 100}
+    - name: Cubo.001
+      parentName: GatoGuerreiro3Dmodel(Clone)
+      position: {x: -3.949841e-18, y: 1.5159408, z: 0.0341959}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 100, y: 41.37112, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
